@@ -1,0 +1,44 @@
+body {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: "Arial", sans-serif;
+}
+
+.link {
+    text-decoration: none;
+    color: darkblue;
+}
+
+h1 {
+    font-size: 32px;
+    padding-top: 1.5em;
+}
+
+img {
+    float: right;
+    padding: 1px 5px 1px 5px;
+}
+
+
+table {border: 2px solid black;
+    border-collapse: collapse;}
+
+tr {border: 3px solid black;}
+
+table {width: 50%;}
+
+hr {
+    color: black;
+    size: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+.footer {
+    padding: 20px 10px;
+    background: #C0C0C0;
+    color: black
+}

@@ -1,0 +1,39 @@
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    padding-top: 1.5em;
+}
+
+.image {
+    padding: 5px 10px 5px 10px;
+}
+
+.hac {
+
+}
+
+hr {
+    color: black;
+    size: 50px;
+}
+
+.footer {
+    padding: 20px 10px;
+    background: #C0C0C0;
+    color: black
+}
